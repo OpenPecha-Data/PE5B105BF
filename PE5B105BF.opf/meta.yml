@@ -1,0 +1,29 @@
+id: PE5B105BF
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6159
+  instance_id: http://purl.bdrc.io/resource/IE1KG6159
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཇོ་ནང་རྗེ་བཙུན་ཐམས་ཅད་མཁྱེན་པ་ཏཱ་ར་ནཱ་ཐའི་བཀའ་འབུམ་དཔེ་བསྡུར་མའི་དཀར་ཆག
+  alt_title: {}
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    99bba2d828e54d6a9d2bc071d830356c:
+      title: པོད ༡་ཇོ་ནང་རྗེ་བཙུན་ཐམས་ཅད་མཁྱེན་པ་ཏཱ་ར་ནཱ་ཐའི་བཀའ་འབུམ་དཔེ་བསྡུར་མའི་དཀར་ཆག
+      volume_number: 1
+      base_file: UT1KG6159_I1KG8915_0000.txt
+      reference: http://purl.bdrc.io/resource/VL165E52856FE20A0B
+      image_group: I1KG8915
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6159
+  - http://purl.bdrc.io/resource/W1KG6159
+  ocr_software: Namsel
+created_at: '2021-12-22T10:56:13.373199'
+last_modified_at: '2021-12-22T10:56:13.373206'
